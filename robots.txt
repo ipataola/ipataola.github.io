@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ipataola.github.io/Apq/sitemap_index.txt
+Sitemap: https://ipataola.github.io/LZM/sitemap_index.txt
+Sitemap: https://ipataola.github.io/gLm/sitemap_index.txt
+Sitemap: https://ipataola.github.io/sgO/sitemap_index.txt
